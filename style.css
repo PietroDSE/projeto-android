@@ -82,8 +82,7 @@
  } 
   
  main{ 
-     background-color: black; 
-     color: white;
+   
      min-width: 300px; 
      max-width: 1250px; 
      margin: auto; 
