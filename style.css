@@ -38,7 +38,7 @@
   
   
  body{ 
-     background-color: var(--cor0); 
+     background-color: black; 
      font-family: var(--fonte-padrão); 
      margin: auto; 
  } 
