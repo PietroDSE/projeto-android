@@ -19,7 +19,7 @@
      #063D1E 
      */ 
      :root{ 
-         --preto: #000000;
+        
          --branco: #ffffff; 
          --cor0: #C5EBD6; 
          --cor1: #83E1AD; 
@@ -33,17 +33,17 @@
          --fonte-android: 'android', 'cursive'; 
      } 
  *{ 
-     color: white;
-     background-color: black;
+    
      margin-top: 0px; 
      padding: 0px; 
  } 
   
   
  body{ 
-     background-color: black; 
+    
      font-family: var(--fonte-padrão); 
      margin: auto; 
+     
  } 
   
   
